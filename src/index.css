@@ -1,0 +1,9 @@
+body {
+  background: url("images/hbg.png") no-repeat;
+  background-size:cover;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
